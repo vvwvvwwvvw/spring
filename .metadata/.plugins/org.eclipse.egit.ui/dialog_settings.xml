@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/vvwvvwwvvw/spring.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="vvwvvwwvvw &lt;152365852+vvwvvwwvvw@users.noreply.github.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="vvwvvwwvvw &lt;152365852+vvwvvwwvvw@users.noreply.github.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Development\springboot_sts\demo\.git">
+			<item value="false"/>
+			<item value="vvwvvwwvvw &lt;wjddnr3304@gmail.com&gt;"/>
+			<item value="커밋"/>
+			<item value="https://github.com/vvwvvwwvvw/spring_boot.git"/>
+			<item value="c61d0fe62215ecf07b5e52878b028d5e0df02800"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+	</section>
+</section>
